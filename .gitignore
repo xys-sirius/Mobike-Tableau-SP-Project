@@ -1,0 +1,20 @@
+# LaTeX compilation artifacts
+*.aux
+*.log
+*.out
+*.synctex*
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.run.xml
+*.toc
+*.bcf
+*.gz
+
+# macOS
+__MACOSX/
+.DS_Store
+
+# Temp files
+*_log.txt
