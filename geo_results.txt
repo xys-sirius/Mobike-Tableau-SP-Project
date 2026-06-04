@@ -1,0 +1,20 @@
+聚类  | 经度        | 纬度       | 论文原称           | API实际查询结果
+------------------------------------------------------------------------------------------
+Cluster  1 |   121.3565 |   31.1875 | 闵行区                | ERROR: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /reverse?format=json&lat=31.1875&lon=121.3565&zoom=12&language=zh (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+Cluster  2 |   121.4301 |   31.3269 | 杨浦区（高校区）           | ERROR: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /reverse?format=json&lat=31.3269&lon=121.4301&zoom=12&language=zh (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+Cluster  3 |   121.4778 |   31.2705 | 静安寺CBD             | 欧阳路街道
+         Full: 欧阳路街道, 虹口区, 上海市, 200081, 中国
+Cluster  4 |   121.5396 |   31.2738 | 浦东新区（商务区）          | 杨浦区
+         Full: 定海路街道, 杨浦区, 上海市, 200090, 中国
+Cluster  5 |   121.4161 |   31.1428 | 徐汇区南               | 凌云路街道
+         Full: 凌云路街道, 徐汇区, 上海市, 200237, 中国
+Cluster  6 |   121.4538 |   31.2086 | 徐汇区（住宅区）           | 天平路街道
+         Full: 天平路街道, 徐汇区, 上海市, 中国
+Cluster  7 |   121.3375 |   31.2639 | 长宁区西               | 嘉定区
+         Full: 江桥镇, 嘉定区, 上海市, 中国
+Cluster  8 |   121.5085 |   31.3175 | 虹口区                | 新江湾城街道
+         Full: 新江湾城街道, 杨浦区, 上海市, 200438, 中国
+Cluster  9 |   121.5321 |   31.1811 | 浦东南                | 浦东新区
+         Full: 北蔡镇, 浦东新区, 上海市, 200125, 中国
+Cluster 10 |   121.4105 |   31.2594 | 中山公园               | 石泉路街道
+         Full: 石泉路街道, 普陀区, 上海市, 中国

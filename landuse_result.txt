@@ -1,0 +1,249 @@
+Type: way, Landuse: residential, Name: 真华路157弄小区
+  Center: 31.2673474, 121.404431
+  Tags: {"landuse": "residential", "name": "真华路157弄小区", "residential": "apartments"}
+
+Type: way, Landuse: railway, Name: 上海西站
+  Center: 31.2654949, 121.3954322
+  Tags: {"landuse": "railway", "name": "上海西站", "name:en": "Shanghai West", "name:zh": "上海西站", "name:zh-Hans": "上海西站", "name:zh-Hant": "上海西站"}
+
+Type: way, Landuse: construction, Name: 高 · 尚领域 A5
+  Center: 31.2543784, 121.4033697
+  Tags: {"landuse": "construction", "name": "高 · 尚领域 A5", "name:zh": "高 · 尚领域 A5", "name:zh-Hans": "高 · 尚领域 A5", "name:zh-Hant": "高 · 尚領域 A5"}
+
+Type: way, Landuse: residential, Name: N/A
+  Center: 31.2600974, 121.3986289
+  Tags: {"landuse": "residential"}
+
+Type: way, Landuse: residential, Name: 绿翡翠家园
+  Center: 31.2574196, 121.4003716
+  Tags: {"landuse": "residential", "name": "绿翡翠家园", "name:zh": "绿翡翠家园", "name:zh-Hans": "绿翡翠家园", "name:zh-Hant": "綠翡翠家園"}
+
+Type: way, Landuse: construction, Name: B4
+  Center: 31.2560663, 121.4002205
+  Tags: {"landuse": "construction", "name": "B4", "name:en": "B4", "name:zh": "B4"}
+
+Type: way, Landuse: construction, Name: B6
+  Center: 31.2541342, 121.4007855
+  Tags: {"landuse": "construction", "name": "B6", "name:en": "B6", "name:zh": "B6"}
+
+Type: way, Landuse: residential, Name: 石川春晓
+  Center: 31.2580639, 121.406877
+  Tags: {"landuse": "residential", "name": "石川春晓"}
+
+Type: way, Landuse: residential, Name: 石川春晓
+  Center: 31.2555263, 121.4074092
+  Tags: {"landuse": "residential", "name": "石川春晓"}
+
+Type: way, Landuse: construction, Name: 高 · 尚领域 A6
+  Center: 31.2548252, 121.4052522
+  Tags: {"landuse": "construction", "name": "高 · 尚领域 A6"}
+
+Type: way, Landuse: construction, Name: 高 · 尚领域 A3
+  Center: 31.2570129, 121.4025631
+  Tags: {"landuse": "construction", "name": "高 · 尚领域 A3"}
+
+Type: way, Landuse: construction, Name: 高 · 尚领域 A4
+  Center: 31.2577424, 121.4047279
+  Tags: {"landuse": "construction", "name": "高 · 尚领域 A4"}
+
+Type: way, Landuse: construction, Name: 星光耀广场A1
+  Center: 31.259392, 121.4019166
+  Tags: {"landuse": "construction", "name": "星光耀广场A1", "name:zh": "星光耀广场A1", "name:zh-Hans": "星光耀广场A1", "name:zh-Hant": "星光耀廣場A1"}
+
+Type: way, Landuse: construction, Name: 星光耀广场A2
+  Center: 31.2597997, 121.4040828
+  Tags: {"landuse": "construction", "name": "星光耀广场A2"}
+
+Type: way, Landuse: residential, Name: 金纺苑
+  Center: 31.2607229, 121.4010615
+  Tags: {"landuse": "residential", "name": "金纺苑", "name:zh": "金纺苑", "name:zh-Hans": "金纺苑", "name:zh-Hant": "金紡苑", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 恒力锦沧花园
+  Center: 31.2619402, 121.4019736
+  Tags: {"landuse": "residential", "name": "恒力锦沧花园", "name:zh": "恒力锦沧花园", "name:zh-Hans": "恒力锦沧花园", "name:zh-Hant": "恆力錦滄花園", "residential": "apartments"}
+
+Type: way, Landuse: commercial, Name: N/A
+  Center: 31.2612754, 121.4032056
+  Tags: {"landuse": "commercial"}
+
+Type: way, Landuse: residential, Name: 曹杨五月天
+  Center: 31.2625954, 121.4036078
+  Tags: {"landuse": "residential", "name": "曹杨五月天", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 曹杨雅苑
+  Center: 31.2628705, 121.4011626
+  Tags: {"landuse": "residential", "name": "曹杨雅苑", "name:zh": "曹杨雅苑", "name:zh-Hans": "曹杨雅苑", "name:zh-Hant": "曹楊雅苑", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 品尊国际公寓
+  Center: 31.2592182, 121.4140138
+  Tags: {"landuse": "residential", "name": "品尊国际公寓"}
+
+Type: way, Landuse: residential, Name: 牡丹新苑
+  Center: 31.2563829, 121.4132556
+  Tags: {"landuse": "residential", "name": "牡丹新苑"}
+
+Type: way, Landuse: residential, Name: 岚皋馨苑
+  Center: 31.2560705, 121.4112506
+  Tags: {"landuse": "residential", "name": "岚皋馨苑"}
+
+Type: way, Landuse: residential, Name: 市政馨苑
+  Center: 31.2555351, 121.4093084
+  Tags: {"landuse": "residential", "name": "市政馨苑"}
+
+Type: way, Landuse: residential, Name: 石岚二村、三村
+  Center: 31.2538307, 121.4180222
+  Tags: {"landuse": "residential", "name": "石岚二村、三村"}
+
+Type: way, Landuse: residential, Name: 石泉春晓
+  Center: 31.2513225, 121.4149111
+  Tags: {"landuse": "residential", "name": "石泉春晓"}
+
+Type: way, Landuse: residential, Name: 中宁家园
+  Center: 31.2505021, 121.4117009
+  Tags: {"landuse": "residential", "name": "中宁家园"}
+
+Type: way, Landuse: residential, Name: 中宁别墅
+  Center: 31.2503075, 121.4097317
+  Tags: {"landuse": "residential", "name": "中宁别墅"}
+
+Type: way, Landuse: construction, Name: 中海臻如府二期
+  Center: 31.2524577, 121.4076348
+  Tags: {"landuse": "construction", "name": "中海臻如府二期"}
+
+Type: way, Landuse: construction, Name: X204
+  Center: 31.2502837, 121.4079125
+  Tags: {"landuse": "construction", "name": "X204"}
+
+Type: way, Landuse: residential, Name: 申兴华庭
+  Center: 31.2514284, 121.4121883
+  Tags: {"landuse": "residential", "name": "申兴华庭"}
+
+Type: way, Landuse: residential, Name: 中海臻如府一期
+  Center: 31.2514454, 121.4096768
+  Tags: {"landuse": "residential", "name": "中海臻如府一期"}
+
+Type: way, Landuse: railway, Name: 光新路客技站
+  Center: 31.2617779, 121.4141695
+  Tags: {"landuse": "railway", "name": "光新路客技站"}
+
+Type: way, Landuse: residential, Name: 中海臻如府三期
+  Center: 31.252617, 121.4096005
+  Tags: {"landuse": "residential", "name": "中海臻如府三期"}
+
+Type: way, Landuse: grass, Name: N/A
+  Center: 31.2560101, 121.4111389
+  Tags: {"landuse": "grass"}
+
+Type: way, Landuse: commercial, Name: 大华虎城嘉年华·商务园
+  Center: 31.2690631, 121.4100345
+  Tags: {"landuse": "commercial", "name": "大华虎城嘉年华·商务园"}
+
+Type: way, Landuse: construction, Name: 大华峯荟
+  Center: 31.2557951, 121.4209955
+  Tags: {"landuse": "construction", "name": "大华峯荟"}
+
+Type: way, Landuse: residential, Name: 嘉华苑
+  Center: 31.2690429, 121.4126593
+  Tags: {"landuse": "residential", "name": "嘉华苑", "residential": "apartments"}
+
+Type: way, Landuse: construction, Name: 真如车辆基地
+  Center: 31.2604311, 121.4091088
+  Tags: {"construction": "railway", "landuse": "construction", "name": "真如车辆基地"}
+
+Type: way, Landuse: construction, Name: 曹杨二中东校
+  Center: 31.2528978, 121.4168012
+  Tags: {"landuse": "construction", "name": "曹杨二中东校"}
+
+Type: way, Landuse: residential, Name: 中环花苑
+  Center: 31.2663384, 121.4123057
+  Tags: {"landuse": "residential", "name": "中环花苑", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 中浩云花园
+  Center: 31.2642486, 121.4117153
+  Tags: {"landuse": "residential", "name": "中浩云花园", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 中环家园一期
+  Center: 31.2675838, 121.4084868
+  Tags: {"landuse": "residential", "name": "中环家园一期", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 中环家园二期
+  Center: 31.2645909, 121.4093848
+  Tags: {"landuse": "residential", "name": "中环家园二期", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 香泉小区
+  Center: 31.2657947, 121.4071669
+  Tags: {"landuse": "residential", "name": "香泉小区", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 巴黎之春
+  Center: 31.2664213, 121.4017166
+  Tags: {"landuse": "residential", "name": "巴黎之春", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 万里双子座
+  Center: 31.2650389, 121.4032165
+  Tags: {"landuse": "residential", "name": "万里双子座", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 东旺雍景苑
+  Center: 31.2676593, 121.4169392
+  Tags: {"landuse": "residential", "name": "东旺雍景苑", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 万里欣苑
+  Center: 31.2628404, 121.4139148
+  Tags: {"landuse": "residential", "name": "万里欣苑", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 交暨路65弄小区
+  Center: 31.2626374, 121.4168332
+  Tags: {"landuse": "residential", "name": "交暨路65弄小区", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 交暨路190弄
+  Center: 31.2650511, 121.41724
+  Tags: {"landuse": "residential", "name": "交暨路190弄", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 鑫都家园
+  Center: 31.2659079, 121.4173208
+  Tags: {"landuse": "residential", "name": "鑫都家园", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 甘泉公寓
+  Center: 31.2643506, 121.4190468
+  Tags: {"landuse": "residential", "name": "甘泉公寓", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 双山小区
+  Center: 31.2626658, 121.419651
+  Tags: {"landuse": "residential", "name": "双山小区", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 管弄五六街坊
+  Center: 31.2598414, 121.4196759
+  Tags: {"landuse": "residential", "name": "管弄五六街坊", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 管弄四街坊
+  Center: 31.2587114, 121.4184841
+  Tags: {"landuse": "residential", "name": "管弄四街坊", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 管弄三街坊
+  Center: 31.2561677, 121.4184796
+  Tags: {"landuse": "residential", "name": "管弄三街坊", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 管弄一二街坊
+  Center: 31.2576034, 121.4215279
+  Tags: {"landuse": "residential", "name": "管弄一二街坊", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 苏河望
+  Center: 31.2537813, 121.4196699
+  Tags: {"landuse": "residential", "name": "苏河望", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 铁路新村
+  Center: 31.2553249, 121.4215449
+  Tags: {"landuse": "residential", "name": "铁路新村", "residential": "apartments"}
+
+Type: way, Landuse: residential, Name: 岚皋路300弄小区
+  Center: 31.2549431, 121.418901
+  Tags: {"landuse": "residential", "name": "岚皋路300弄小区", "residential": "apartments"}
+
+Type: relation, Landuse: commercial, Name: 中海环宇城MAX
+  Center: 31.2516554, 121.4047078
+  Tags: {"landuse": "commercial", "name": "中海环宇城MAX", "name:zh": "中海环宇城MAX", "name:zh-Hans": "中海环宇城MAX", "type": "multipolygon"}
+
+Type: relation, Landuse: residential, Name: 旬阳新村
+  Center: 31.2537021, 121.4195242
+  Tags: {"landuse": "residential", "name": "旬阳新村", "residential": "apartments", "type": "multipolygon"}
+
+Total elements found: 62
