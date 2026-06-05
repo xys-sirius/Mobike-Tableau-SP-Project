@@ -18,8 +18,8 @@ fprintf('CBD站点(净流入): Cluster %d (%.4fE, %.4fN)\n', max_inflow_cluster,
 fprintf('RES站点(净流出): Cluster %d (%.4fE, %.4fN)\n', max_outflow_cluster, C_all_lon(max_outflow_cluster), C_all_lat(max_outflow_cluster));
 
 % 双站点定义
-cluster_CBD = max_inflow_cluster;   % Cluster 3: 静安寺CBD
-cluster_RES = max_outflow_cluster;  % Cluster 10: 中山公园住宅区
+cluster_CBD = max_inflow_cluster;   % Cluster 3: 虹口区CBD核心区（净流入站）
+cluster_RES = max_outflow_cluster;  % Cluster 10: 普陀区石泉路街道（净流出站）
 
 %% ==================== 1. 工作日/周末划分 ====================
 unique_dates = unique(data_clean.start_date);
@@ -75,7 +75,7 @@ fig_dual_rate = figure('Position',[100,100,1000,500],'Visible','off');
 subplot(1,2,1);
 plot(0:23, lambda_CBD, 'r-o', 'LineWidth',2, 'MarkerSize',6); hold on;
 plot(0:23, mu_CBD, 'b-s', 'LineWidth',2, 'MarkerSize',6);
-title(sprintf('CBD (Cluster %d) 静安寺站', cluster_CBD), 'FontSize',12);
+title(sprintf('CBD (Cluster %d)', cluster_CBD), 'FontSize',12);
 xlabel('Hour'); ylabel('Events/hr');
 legend('\lambda(t) Borrow','\mu(t) Return','Location','best');
 grid on; set(gca,'XTick',0:3:23);
@@ -83,7 +83,7 @@ grid on; set(gca,'XTick',0:3:23);
 subplot(1,2,2);
 plot(0:23, lambda_RES, 'r-o', 'LineWidth',2, 'MarkerSize',6); hold on;
 plot(0:23, mu_RES, 'b-s', 'LineWidth',2, 'MarkerSize',6);
-title(sprintf('RES (Cluster %d) 中山公园住宅区', cluster_RES), 'FontSize',12);
+title(sprintf('RES (Cluster %d)', cluster_RES), 'FontSize',12);
 xlabel('Hour'); ylabel('Events/hr');
 legend('\lambda(t) Borrow','\mu(t) Return','Location','best');
 grid on; set(gca,'XTick',0:3:23);
